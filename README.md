@@ -53,4 +53,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<br/>
+### 🧠 Linguagens mais usadas
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizaelaa&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&hide_border=false" />
+
 
